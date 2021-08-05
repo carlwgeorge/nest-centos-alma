@@ -14,7 +14,7 @@ name: centos
 background-image: url(centos.svg)
 
 ---
-name: centos
+name: alma
 
 background-image: url(alma.svg)
 
